@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "brainly-scraper": "^1.0.3",
+    "brainly-scraper-v2": "^1.1.2",
     "chalk": "^4.1.0",
     "figlet": "^1.5.0"
   }
